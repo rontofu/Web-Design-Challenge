@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](Visualisations/landingResize.png)
+![Images/landingResize.png](WebVisualisations/Visualisations/landingResize.png)
 
 ### Before You Begin
 
@@ -84,33 +84,33 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](Visualisations/landingResize.png)
+![Landing page large screen](WebVisualisations/Visualisations/landingResize.png)
 
 Small screen:
 
-![Landing page small screen](Visualisations/landing-sm.png)
+![Landing page small screen](WebVisualisations/Visualisations/landing-sm.png)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Visualisations/comparison-lg.png)
+![comparison page large screen](WebVisualisations/Visualisations/comparison-lg.png)
 
 Small screen:
 
-![comparison page small screen](Visualisationsges/comparison-sm.png)
+![comparison page small screen](WebVisualisations/Visualisationsges/comparison-sm.png)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Visualisations/data-lg.png)
+![data page large screen](WebVisualisations/Visualisations/data-lg.png)
 
 
 Small screen:
 
-![data page small screen](Visualisations/data-sm.png)
+![data page small screen](WebVisualisations/Visualisations/data-sm.png)
 
 #### <a id="visualisation-pages"></a>Visualisation pages
 
@@ -118,19 +118,19 @@ You'll build four of these, one for each visualisation. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](Visualisations/visualize-lg.png)
+![visualize page large screen](WebVisualisations/Visualisations/visualize-lg.png)
 
 Small screen:
 
-![visualize page small screen](Visualisations/visualize-sm.png)
+![visualize page small screen](WebVisualisations/Visualisations/visualize-sm.png)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Visualisations/nav-lg.png)
+![nav menu large screen](WebVisualisations/Visualisations/nav-lg.png)
 
 Small screen:
-![nav menu small screen](Visualisations/nav-sm.png)
+![nav menu small screen](WebVisualisations/Visualisations/nav-sm.png)
 
 ### Copyright
 
