@@ -1,0 +1,49 @@
+.navbar {
+  background-color: white;
+  }
+  
+  body {
+    background:rgb(238, 236, 236);
+  }
+  .navbar li {
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .navbar-header a {
+    color:white;
+    background-color: rgb(6, 204, 161);
+    font-size:x-large;
+    padding: 10px;
+    align-content: center;
+  }
+  
+  p{
+    font-size: 20px;
+  }
+  
+  .container h1 {
+    color : rgb(6, 204, 161);
+  }
+  
+  .container h2 {
+    color : rgb(6, 204, 161);
+  }
+  
+  .container h4 {
+    color : rgb(6, 204, 161);
+    font-weight: bold;
+    padding-left: 0px;
+  }
+  
+  .container {
+    background-color: white;
+    align-content: center;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .navbar {
+      background:rgb(6, 204, 161);
+    }
+  
+    }
